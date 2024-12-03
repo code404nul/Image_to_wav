@@ -3,7 +3,7 @@ Convertit une image en WAV. Le fichier ci-dessous encode et décode l'image.
 Pour une image de 375x220, cela prend au programme environ 0.1 seconde.
 
 Auteur : Jules Henriot-Colin
-LICENSE : Attribution-NonCommercial 4.0 International
+LICENSE : GPL-3.0
 (Ce programme est destiné à des fins de recherche...)
 
 Tout crédit est apprécier mais pas obligatoire.
